@@ -16,5 +16,5 @@ if you want to get the result as above, then do the steps below!
    - `Monokai Pro` (for Icons)
 2. Copy all code in `theme-conf.json` file
 3. Open your visual studio code, then press <kbd>command</kbd> or <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>p</kbd>. Type "open user settings" then enter to open file `settings.json`
-4. Delete all the code in the `settings.json` file, then paste all the code from the `theme-conf.json` file. save and restart your visual studio code
+4. Delete all the code in the `settings.json` file, then paste all the code from the [`theme-conf.json`](https://github.com/azronaftara/vscode-clean-workspace-theme/blob/main/theme-conf.json) file. save and restart your visual studio code
 5. Finish🎉
