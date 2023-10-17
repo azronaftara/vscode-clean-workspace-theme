@@ -1,5 +1,5 @@
 # vscode-clean-workspace-theme
-Best VS Code Clean Workspace Theme to focused your activity and reduce some distraction
+Best VS Code Clean Workspace Theme to focused your activity and reduce some distractions
 
 
 # Before
